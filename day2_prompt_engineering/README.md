@@ -44,6 +44,7 @@ Rules:
 Now analyze the user review and generate the structured output.
 
 Example Input 1
+
 The latest version of the photo editing app crashes frequently and I lost my work twice.
 
 Output
@@ -56,7 +57,9 @@ Output
 }
 
 Example Input 2
+
 The new dashboard looks nice but I haven't noticed major improvements in performance yet.
+
 Output
 {
 "title": "Dashboard Redesign Adds Visual Appeal",
@@ -67,7 +70,9 @@ Output
 }
 
 Example 3
+
 The new note-taking app has a clean design and syncing works well across devices. However, the search feature is still slow and needs improvement.
+
 Output
 {
 "title": "Note-Taking App Offers Clean Design but Slow Search",
