@@ -48,6 +48,7 @@ Example Input 1
 The latest version of the photo editing app crashes frequently and I lost my work twice.
 
 Output
+
 {
 "title": "Photo Editing App Update Causes Frequent Crashes",
 "summary": "The recent update introduced stability issues causing the app to crash repeatedly. Users may lose work due to these problems.",
@@ -61,6 +62,7 @@ Example Input 2
 The new dashboard looks nice but I haven't noticed major improvements in performance yet.
 
 Output
+
 {
 "title": "Dashboard Redesign Adds Visual Appeal",
 "summary": "The updated dashboard introduces a cleaner visual design. However, noticeable performance improvements are not evident yet.",
@@ -74,6 +76,7 @@ Example 3
 The new note-taking app has a clean design and syncing works well across devices. However, the search feature is still slow and needs improvement.
 
 Output
+
 {
 "title": "Note-Taking App Offers Clean Design but Slow Search",
 "summary": "The note-taking app provides a clean interface and reliable syncing across devices. However, the search functionality remains slow and could benefit from improvement.",
