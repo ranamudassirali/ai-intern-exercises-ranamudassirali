@@ -129,7 +129,7 @@ The final prompt that produced the best result was:
 
 Photorealistic image of a young woman wearing glasses typing code on a laptop, sitting at a small round wooden table in a cozy cafe, a white cup of coffee beside the laptop, side profile view, large window with natural daylight, warm lighting, modern cafe interior, shallow depth of field, high detail, 50mm lens
 
-![alt text](<image (2).png>)
+![alt text](<image (3).png>)
 ---
 
 # SEED Value
