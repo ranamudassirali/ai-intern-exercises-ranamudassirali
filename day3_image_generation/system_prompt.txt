@@ -1,0 +1,37 @@
+The final prompt that produced the best result was:
+
+Photorealistic image of a young woman wearing glasses typing code on a laptop, sitting at a small round wooden table in a cozy cafe, a white cup of coffee beside the laptop, side profile view, large window with natural daylight, warm lighting, modern cafe interior, shallow depth of field, high detail, 50mm lens
+
+SEED Value
+
+SEED used:
+
+70216
+
+The SEED determines the initial noise pattern in diffusion models.
+
+Using the same:
+
+Prompt + Seed
+
+produces the same image every time.
+
+This ensures reproducibility during prompt experiments.
+
+Final Output
+
+The final generated image closely resembles the reference image in terms of:
+
+Subject appearance
+
+Café environment
+
+Lighting
+
+Camera perspective
+
+Overall mood
+
+The generated result is stored as:
+
+final_image(2).png
