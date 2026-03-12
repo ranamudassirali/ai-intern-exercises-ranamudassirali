@@ -1,0 +1,12 @@
+Query: What are embeddings?
+Retrieved Document:
+Large language models are trained on massive text datasets to understand and generate human-like language.
+------------------------------
+Query: What are embeddings?
+Retrieved Document:
+Neural networks are inspired by the human brain and consist of layers of interconnected neurons that process information.
+------------------------------
+Query: What are embeddings?
+Retrieved Document:
+The attention mechanism allows models to focus on the most important parts of the input when making predictions.
+------------------------------

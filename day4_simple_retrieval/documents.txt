@@ -1,0 +1,29 @@
+Machine learning algorithms learn patterns from data to make predictions or decisions without being explicitly programmed.
+
+Neural networks are inspired by the human brain and consist of layers of interconnected neurons that process information.
+
+The attention mechanism allows models to focus on the most important parts of the input when making predictions.
+
+Large language models are trained on massive text datasets to understand and generate human-like language.
+
+Reinforcement learning is a type of machine learning where agents learn by interacting with an environment and receiving rewards.
+
+Astronauts travel to space using spacecraft designed to survive extreme conditions beyond Earth's atmosphere.
+
+The solar system consists of the Sun and the celestial objects that orbit around it, including planets and asteroids.
+
+Football is one of the most popular sports in the world and is played by two teams of eleven players.
+
+Basketball requires teamwork, quick movement, and accurate shooting to score points against the opposing team.
+
+Cooking pasta requires boiling water, adding pasta, and cooking it until it becomes tender.
+
+Baking bread involves mixing flour, water, yeast, and salt, then allowing the dough to rise before baking.
+
+Cybersecurity focuses on protecting computer systems and networks from digital attacks.
+
+Databases store and organize large amounts of structured information for easy access and management.
+
+Cloud computing allows users to store data and run applications on remote servers instead of local computers.
+
+Artificial intelligence enables machines to perform tasks that normally require human intelligence.
