@@ -1,0 +1,5 @@
+What is 12 * 7?
+How are you?
+Weather in Tokyo?
+What is 100 / 5?
+What is the weather in London?

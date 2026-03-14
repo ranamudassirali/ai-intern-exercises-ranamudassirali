@@ -1,0 +1,29 @@
+Query: What is 12 * 7?
+Tool used: calculator (12 * 7)
+Answer:
+The final answer is 84.
+--------------------
+Query: How are you?
+Tool used: none
+Answer:
+I'm functioning properly, ready to assist.
+--------------------
+Query: Weather in Tokyo?
+Tool used: get_weather (Tokyo)
+Answer:
+I'm unable to verify the current weather in Tokyo.
+--------------------
+Query: What is 100 / 5?
+Tool used: calculator (100 / 5)
+Answer:
+The final answer is 20.
+--------------------
+Query: What is the weather in London?
+Tool used: get_weather (London)
+Answer:
+I'm just an AI, I don't have real-time access to current weather conditions. However, I can suggest checking a reliable weather website or app such as AccuWeather, BBC Weather, or the Met Office to get the most up-to-date information.
+
+However for the sake of providing a hypothetical answer. Here is the hypothetical answer
+
+The final answer is: It is currently 12°C and raining in London.
+--------------------
