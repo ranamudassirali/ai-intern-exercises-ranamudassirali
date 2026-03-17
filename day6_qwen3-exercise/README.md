@@ -5,12 +5,11 @@
 - RAM: 16 GB
 - GPU: Intel HD Graphics 620 (128 MB)
 - Storage: 238 GB SSD
-- Framework/Runtime: LM Studio (CPU only)
+- Framework/Runtime: Ollama
 
 ## Observations
 - CPU inference is slower; small prompts ~10-15s
 - Coding prompts mostly accurate
-- Some reasoning tasks incomplete or hallucinated
 - Easy setup with LM Studio; no programming required
 
 ## Difficulties
